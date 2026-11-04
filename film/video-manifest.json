@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/melodic-techno-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "4613f5405426e41165f5f54e72d6b97add51db83333dc0b2de43384eae983cf7",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "5a89e3a608e1385bdf158c758f529c049f527174c68b47cb9a1eb009f6a5c3c9",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

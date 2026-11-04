@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+mq01,Orbit Line,pack-local equal-tempered pitch collection,A,124,4/4,480,32,61440,midi/mq01-orbit-line/mq01-orbit-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mq02,Copper Path,pack-local equal-tempered pitch collection,C,124,4/4,480,32,61440,midi/mq02-copper-path/mq02-copper-path-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mq03,Long Signal,pack-local equal-tempered pitch collection,D#,124,4/4,480,32,61440,midi/mq03-long-signal/mq03-long-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mq04,First Return,pack-local equal-tempered pitch collection,A#,124,4/4,480,32,61440,midi/mq04-first-return/mq04-first-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
