@@ -1,0 +1,26 @@
+{
+  "title": "Melodic Techno Sequences",
+  "study": "mq01",
+  "bpm": 124,
+  "source_audio": "preview/melodic-techno-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "4613f5405426e41165f5f54e72d6b97add51db83333dc0b2de43384eae983cf7",
+  "source_midi": "midi/mq01-orbit-line/mq01-orbit-line-combined.mid",
+  "source_midi_sha256": "ed2e26762ed930b3db16bf0c14fb34eabf7788be832f8c948cbb89379e6dd223",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "de466b1b8ca8beeef447ffdff1d0949890778b8467808da5ac5fa8ede4d69287",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "2dc3b2d2d4208b42fff7674268d408b8423a5a5055b300dc77dcfc78721c003b",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "50e320d3fe557b7f0ab461e4a5ffe1cd24e805538f0e9638164c6fb307a5a333",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
