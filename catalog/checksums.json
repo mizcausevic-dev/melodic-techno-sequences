@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 794,
-      "sha256": "71bd35100a3c11c71e0bf105647ba55af8f5c2f73fde6702e143fc7dbe2d42e1"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3901,
-      "sha256": "6d39215ad5920f38368a5db471977f9cad8898a989dc611c562f2e1e8a7b9f4e"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/melodic-techno-sequences-midi.zip",
-      "bytes": 30025,
-      "sha256": "ba862427662a80697fd4cdc28d7b30c19d275eceb139b0e5255e140d3769b5ec"
+      "bytes": 32087,
+      "sha256": "58cb7b7b87a63de4a469ffcba3566ef5d91c5938262a47cb5d6f614cac5af45a"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 34022,
       "sha256": "711f4bc5eb8e03afc3259401b9ad8e79113b6ae257346ec45562acda7ac91bfb"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1230260,
-      "sha256": "50e320d3fe557b7f0ab461e4a5ffe1cd24e805538f0e9638164c6fb307a5a333"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9569,
-      "sha256": "d802e36cdae9aecfc4acaefa15867b6be19304dce65a2b0a6214eea0085292a0"
+      "bytes": 9759,
+      "sha256": "eec8e47fc0cd26ff6618496f36aad00b9b494853e69d469f77d6b877a86bf393"
     },
     {
       "path": "midi/mq01-orbit-line/chord_pulse.mid",
@@ -402,6 +387,16 @@
       "sha256": "965b9d4cdd7087f1aeb1264b0df841ea2d635e6aeb2e4a5d2ec2497c45de8609"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 794,
+      "sha256": "71bd35100a3c11c71e0bf105647ba55af8f5c2f73fde6702e143fc7dbe2d42e1"
+    },
+    {
       "path": "preview/melodic-techno-sequences-simple-synth-preview.mp3",
       "bytes": 1500308,
       "sha256": "4613f5405426e41165f5f54e72d6b97add51db83333dc0b2de43384eae983cf7"
@@ -410,6 +405,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1134,
       "sha256": "7524c91e020903c4d633bbb4a48532686213167a75f7936dc105a09167e8f066"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4016,
+      "sha256": "ff01e4c2ed7fea8ba0c9641fc1977dcee011c346c58c8dfd0d42a005becb682a"
     },
     {
       "path": "social/instagram/caption.txt",
